@@ -1,2 +1,2 @@
 # kBsConfig
-My various tools preferences
+My tools settings and preferences...
